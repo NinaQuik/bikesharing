@@ -10,12 +10,16 @@ Tableau charts for this analysis
  - Show the number of bike trips for all riders and genders for each hour of each day of the week
  - Show the number of bike trips for each type of user and gender for each day of the week.
  - Map the most popular starting and ending locations in NYC for bike share rides. 
-  
-  
-
 
 ### Tools:
 Tableau Public,
 Python 3.7.11,
 Jupyter Notebook,
 Pandas Library
+
+### Data
+CSV file containing bike share information for the month of August, 2019 in New York City.
+
+## Results
+
+Public Tableau link : [Tableau_Bikeshare_Challenge](https://public.tableau.com/app/profile/nina.quick/viz/BikeshareChallenge_16478351821400/NYCBikshare?publish=yes)
