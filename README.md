@@ -4,7 +4,7 @@
 
 This project is an analysis of NYC CitiBike bikesharing data, using Tableau to explore the viability of opening a similar bike sharing company in Des Moines, IA.
 
-Tableau charts for this analysis
+In this analysis, Tableau is used to:
 
  - Show the length of time that bikes are checked out for all riders and genders	
  - Show the number of bike trips for all riders and genders for each hour of each day of the week
@@ -26,10 +26,21 @@ Public Tableau link : [Tableau_Bikeshare_Challenge](https://public.tableau.com/a
 
 ### Summary
 
-There were 2,344,224 NYC CitiBike trips in the month of August 2019.
+There were over 2.3 million NYC CitiBike trips in the month of August 2019.
 
 <img src="https://github.com/NinaQuik/bikesharing/blob/main/Resources/summary.png" width="600" height="500">
 
-Most rides were less than 30 minutes in length.  Males clearly make up the majority of riders.
+### Length of Rides
 
-![checkouttimes](/Resources/checkout_times.png)
+Most rides were of short duration and less than 30 minutes in length.  Males clearly make up the majority of riders, but ride duration is fairly consistent regardless of gender.
+
+<img src="https://github.com/NinaQuik/bikesharing/blob/main/Resources/checkout_times.png" width="500" height="600">
+
+### Customer Types
+
+Subscribers comprise over 81 percent of all bikeshare rides, highlighting that there is a regular and predictable source of revenue. 
+
+<img src="https://github.com/NinaQuik/bikesharing/blob/main/Resources/customer_type.png" width="600" height="600">
+
+### Trips by Weekday
+
