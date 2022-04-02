@@ -29,3 +29,7 @@ Public Tableau link : [Tableau_Bikeshare_Challenge](https://public.tableau.com/a
 There were 2,344,224 NYC CitiBike trips in the month of August 2019.
 
 <img src="https://github.com/NinaQuik/bikesharing/blob/main/Resources/summary.png" width="600" height="500">
+
+Most rides were less than 30 minutes in length.  Males clearly make up the majority of riders.
+
+![checkouttimes](/Resources/checkout_times.png)
