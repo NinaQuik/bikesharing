@@ -23,3 +23,9 @@ CSV file containing bike share information for the month of August, 2019 in New 
 ## Results
 
 Public Tableau link : [Tableau_Bikeshare_Challenge](https://public.tableau.com/app/profile/nina.quick/viz/BikeshareChallenge_16478351821400/NYCBikshare?publish=yes)
+
+### Summary
+
+There were 2,344,224 NYC CitiBike trips in the month of August 2019.
+
+<img src="https://github.com/NinaQuik/bikesharing/blob/main/Resources/summary.png" width="600" height="500">
