@@ -10,7 +10,7 @@ In this analysis, Tableau is used to:
  - Show the number of bike trips for all riders and genders for each hour of each day of the week
  - Show the number of bike trips for each type of user and gender for each day of the week
  - Map the most popular starting and ending locations for bike trips in NYC
- - 
+ 
 ### Tools:
 Tableau Public,
 Python 3.7.11,
