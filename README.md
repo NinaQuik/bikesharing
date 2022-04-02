@@ -53,4 +53,10 @@ Commuting hours between 7-9 am and 5-7 pm on weekdays are the most popular times
 ![gender_hours](/Resources/gender_hours.png)
 
 ## Peak Locations
+The most popular starting locations are clustered around busy Manhattan, with many popular spots near train stations like Grand Central and Penn Station.
 
+![top_start_locs](/Resources/top_starting_locations.png)
+
+The most popular ending locations are similarly located.
+
+![top_ending](/Resources/top_ending_locations.png)
