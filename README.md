@@ -44,5 +44,13 @@ Subscribers comprise over 81 percent of all bikeshare rides, highlighting that t
 
 ### Trips by Weekday
 
-Weekdays are busiest, with male subscribers riding most often Monday through Friday.   Customers ride more often on weekends, and unspecified genders tend to be customers. It's possible that the subscriber registration process requires gender identification, whereas customer rides are more anonymous. It appears that male commuters are the bread and butter of biketrip rides in August despite the generally favorable weather for weekend tourist bikerides at this time of the year.
+Weekdays are busiest, with male subscribers riding most often Monday through Friday.   Customers ride more often on weekends, and unspecified genders tend to be customers. It's possible that the subscriber registration process requires gender identification, whereas customer rides are more anonymous. It appears that male commuters are the bread and butter of bikeshare rides in August despite the generally favorable weather for weekend tourist bike rides at this time of the year.
+
 ![weekday](/Resources/gender_weekday.png)
+
+Commuting hours between 7-9 am and 5-7 pm on weekdays are the most popular times for rides.  Most bikes are clearly used for commuting.
+
+![gender_hours](/Resources/gender_hours.png)
+
+## Peak Locations
+
